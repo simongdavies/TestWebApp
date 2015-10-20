@@ -1,0 +1,32 @@
+{
+  "siteName": {
+    "value": "sdtestwebapp"
+  },
+  "hostingPlanName": {
+    "value": "Default0"
+  },
+  "siteLocation": {
+    "value": "North Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "serverName": {
+    "value": "sdtestwebserver"
+  },
+  "serverLocation": {
+    "value": "North Europe"
+  },
+  "administratorLogin": {
+    "value": "Simon"
+  },
+  "administratorLoginPassword": {
+    "value": "!!Passw0rd!!"
+  },
+  "databaseName": {
+    "value": "sdtestwebapp_db"
+  }
+}
